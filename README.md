@@ -10,6 +10,5 @@ Convert between different file formats.
 - FFmpeg
 - Pillow
 - FastAPI
-
 ## License
 MIT
